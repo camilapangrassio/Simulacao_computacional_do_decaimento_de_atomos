@@ -4,7 +4,7 @@ Esse é o Projeto final da disciplina de PCD do primeiro semestre da Ilum Escola
 # Autora do Projeto: 
 Camila Cunha Pangrassio 
 # Professores responsáveis: 
-Prof. Dr. Daniel Roberto Cassar 
-Prof. Dr. James Moraes de Almeida 
+Prof. Dr. Daniel Roberto Cassar,
+Prof. Dr. James Moraes de Almeida e
 Prof. Dr. Leandro Nascimento Lemos 
 
