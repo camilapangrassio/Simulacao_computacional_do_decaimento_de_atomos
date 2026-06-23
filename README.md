@@ -4,7 +4,7 @@
 o Projeto final da disciplina de PCD do primeiro semestre da Ilum Escola de Ciência, com o objetivo de simular o decaimento de átomos instáveis, considerando que cada átomo decai de forma aleatória, e analisar estatisticamente o resultado da combinação de diversas simulações.
 
 # Descrição do Projeto:
-Com interface gráfica, a partir de entradas do usuário fornecendo o número de átomos de um sistema hipotético, a probabilidade de cada um decair e o tempo de visualização, o programa retorna um gráfico com informações sobre o experimento. Após isso, o usuário coloca o número de simulações que deseja rodar, e com isso obtemos fatos gerais sobre a quantidade de simulações que ocorreram, como a média e o desvio padrão.
+Com interface gráfica, a partir de entradas do usuário fornecendo o número de átomos de um sistema hipotético, a probabilidade de cada um decair e o tempo de visualização, o programa retorna um gráfico com informações sobre o experimento. Após isso, o usuário coloca o número de simulações que deseja rodar, e com isso obtemos fatos gerais sobre a quantidade de simulações que ocorreram, como a média e o desvio padrão. O código completo esta disponivel no arquivo main.ipynb, clone esse repositório no seu dispositivo, baixe as bibliotecas indicadas abaixo e teste o simulador!
 
 # Status do Projeto:
 Concluido!
