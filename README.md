@@ -40,4 +40,5 @@ graduanda do primeiro semestre de ciência e tecnologia na Ilum Escola de Ciênc
 #### REAL PYTHON. Python GUI Programming With Tkinter. Disponível em: <https://realpython.com/python-gui-tkinter/>.
 #### KHAN ACADEMY. Exponential decay and semi-log plots. Disponível em: <https://pt.khanacademy.org/science/physics/quantum-physics/in-in-nuclei/v/exponential-decay-and-semi-log-plots>. 
 #### REVISTA BRASILEIRA DE ENSINO DE FÍSICA. [Artigo disponível no SciELO]. Disponível em: <https://www.scielo.br/j/rbef/a/prrHtFWbvcbLSmWgwBNgVjh/?lang=pt>. 
-#### KHAN ACADEMY. Radioactive decay types. Disponível em: <https://pt.khanacademy.org/science/ciencias-em-ondas-e-radiacao/x5891fddff770a0aa:tipos-de-radiacao/x5891fddff770a0aa:os-atomos-emitem-radiacao/a/radioactive-decay-types-article>. 
+#### KHAN ACADEMY. Radioactive decay types. Disponível em: <https://pt.khanacademy.org/science/ciencias-em-ondas-e-radiacao/x5891fddff770a0aa:tipos-de-radiacao/x5891fddff770a0aa:os-atomos-emitem-radiacao/a/radioactive-decay-types-article>.
+#### Uso de IA para correções de erros ao longo do código e para a organização de ideias
