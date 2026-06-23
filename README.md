@@ -7,7 +7,7 @@ o Projeto final da disciplina de PCD do primeiro semestre da Ilum Escola de Ciê
 Com interface gráfica, a partir de entradas do usuário fornecendo o número de átomos de um sistema hipotético, a probabilidade de cada um decair e o tempo de visualização, o programa retorna um gráfico com informações sobre o experimento. Após isso, o usuário coloca o número de simulações que deseja rodar, e com isso obtemos fatos gerais sobre a quantidade de simulações que ocorreram, como a média e o desvio padrão.
 
 # Status do Projeto:
-Em Desenvolvimento
+Concluido!
 
 # Bibliotecas utilizadas:
 - **numpy:** trabalha com arrays, sendo essa uma forma mais eficiente de organizar dados em comparação a listas normais do python
