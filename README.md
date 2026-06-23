@@ -8,6 +8,15 @@ Com interface gráfica, a partir de entradas do usuário fornecendo o número de
 
 # Status do Projeto:
 Em Desenvolvimento
+
+# Bibliotecas utilizadas:
+- **numpy:** trabalha com arrays, sendo essa uma forma mais eficiente de organizar dados em comparação a listas normais do python
+- **matplotlib.pyplot:** foi usada para criar os graficos utilizados no programa
+- **FigureCanvasTkAgg:** Permite mostrar gráficos dentro de janelas criadas com Tkinter, sendo uma ponte entre a interface grafica e graficos
+- **funcAnimation:** foi utilizada para animar o grafico, atualizando ele com base no intervalo de tempo
+- **random:** foi usada para gerar valores aleatorios para cada atomo
+- **tkinter:** essa biblioteca foi essencial para a criação da interface gráfica do programa
+
 # Autora do Projeto: 
 ### Camila Cunha Pangrassio
 graduanda do primeiro semestre de ciência e tecnologia na Ilum Escola de Ciência - CNPEM
