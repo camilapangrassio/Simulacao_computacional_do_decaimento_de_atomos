@@ -9,6 +9,15 @@ Com interface gráfica, a partir de entradas do usuário fornecendo o número de
 # Status do Projeto:
 Concluido!
 
+# Funcionalidades
+
+- **Simulação individual:**  modela o decaimento átomo a átomo ao longo do tempo
+- **Comparação com a teoria:** gráfico animado com curva experimental vs. curva teórica e linha de meia-vida
+- **Múltiplas simulações:** executa N simulações independentes com as mesmas entradas
+- **Análise estatística:** calcula média, desvio padrão, mínimo e máximo dos resultados finais
+- **Histograma:** visualiza a distribuição dos resultados de múltiplas simulações
+- **Interface gráfica:** aplicação interativa com 4 telas desenvolvida com Tkinter
+
 # Bibliotecas utilizadas:
 - **numpy:** trabalha com arrays, sendo essa uma forma mais eficiente de organizar dados em comparação a listas normais do python
 - **matplotlib.pyplot:** foi usada para criar os graficos utilizados no programa
